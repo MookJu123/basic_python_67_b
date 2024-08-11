@@ -1,5 +1,5 @@
 # Basic python
-IT10 Jutharat Songkun
+IT10 Jutharat Songkun \
 
 
 git init
