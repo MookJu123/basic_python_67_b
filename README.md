@@ -19,5 +19,5 @@ git clone https://github.com/MookJu123/basic_python_67_b.git    # เรีย�
 
 
 git add . 
-git commit -m " Uplord "
+git commit -m " condition Uplord "
 git push origin main    
