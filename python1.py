@@ -1,6 +1,6 @@
 """
 #
-# part: Phython comment
+# part: Python comment
 #
 """
 
@@ -25,12 +25,12 @@ print("hello world!!!!")
 
 """
 #
-# part: Phython Variable
+# part: Python Variable
 #
 """
 
 x = 5               # integer
-y = "Hey Brus"      # string
+y = "Hey Bruh"      # string
 print(x, y)
 
 x = str(5)
@@ -69,15 +69,15 @@ my_variable_name = "john"
 #
 """
 
-x = "Hey Burs"
+x = "Hey Burh"
 print(x)
 
-y = """1 Hey Burs
-2 Hey Burs
-3 Hey Burs
+y = """1 Hey Burh
+2 Hey Burh
+3 Hey Burh
 """
 print(y)
-x = "Hey Brus"
+x = "Hey Bruh"
 print(x[2])
 print(len(x))                 # เช็คขนาดตัวแปล
 print("Hey" in x)
@@ -85,7 +85,7 @@ print("what'sup" not in x)     # เช็คคำหยาบ
 print(x.upper())               # จัดตัวอักษรห้เป็นขนาดเล็ก เช่น email
 print(x.lower())               # จัดตัวอักษรห้เป็นขนาดsหญ่
 
-print(x.replace("Brus", "Sis"))
+print(x.replace("Bruh", "Sis"))
 print(x.split(" "))
 
 # ต่อคำ

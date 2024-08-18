@@ -1,6 +1,6 @@
 """
 #
-# part: Phython Oprerator
+# part: Python Oprerator
 # Arithmatic Oprerator
 #
 """
@@ -32,7 +32,7 @@ print(a)
 
 """
 #
-# part: Phython Oprerator
+# part: Python Oprerator
 # comparison Oprerators
 #
 """
@@ -48,7 +48,7 @@ print(a <= b)
 
 """
 #
-# part: Phython Oprerator
+# part: Python Oprerator
 # logical Oprerators
 #
 """
