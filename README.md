@@ -19,5 +19,5 @@ git clone https://github.com/MookJu123/basic_python_67_b.git    # เรีย�
 
 
 git add . 
-git commit -m " python5,6,7 Uplord "
+git commit -m " python8,9,10,11,12,13,14 Uplord "
 git push origin main    
